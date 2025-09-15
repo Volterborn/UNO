@@ -1,0 +1,14 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÚÈ¤•8‹ëôğ¬2
+•
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Çµí‘8 ©çğ¬2J$2f610a11-18f3-4c94-9dc8-7ca079a2ed48
+m	java:S106""+Replace this use of System.out by a logger.(¸Åú¶8­©çğ¬2J$ab075a78-d401-45c2-94c1-465dacbde0b1
+r	java:S106%"+Replace this use of System.out by a logger.(Éîçşÿÿÿÿ8­©çğ¬2J$4de777e8-e20b-4a56-9990-197420036a01
+m	java:S106("+Replace this use of System.out by a logger.(—ããÅ8­©çğ¬2J$f64e584e-768a-4ecb-b1a0-c6e1b8960d18
+r	java:S106+"+Replace this use of System.out by a logger.(²’Ü—øÿÿÿÿ8­©çğ¬2J$5b0a600e-e2a3-44d7-8141-d7f032be138e
+r	java:S106/"+Replace this use of System.out by a logger.(ÚÑä“ÿÿÿÿÿ8­©çğ¬2J$f0068a78-f6b2-49ce-80bf-3aa92b7802b6
+m	java:S1066"+Replace this use of System.out by a logger.(¨‡êŒ8µ©çğ¬2J$90036a83-322f-4290-9ea1-aaedcc2f36e2
+m	java:S1068"+Replace this use of System.out by a logger.(—°¼ğ8µ©çğ¬2J$b0234847-112b-41d8-bc6f-1c5e24953816
+m	java:S106?"+Replace this use of System.out by a logger.(ÕÛÃ8µ©çğ¬2J$70bd447f-ce87-4b10-872f-b1973668e301
+m	java:S106A"+Replace this use of System.out by a logger.(–¤8µ©çğ¬2J$e10fbcd6-33c5-4d31-9bd5-e042cc9e7d6f
+m	java:S106G"+Replace this use of System.out by a logger.(‘“·Ê8µ©çğ¬2J$f27e2ace-e724-4ca5-9a84-4f6ce7793296

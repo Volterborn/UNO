@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="UNO.Application.GameController" alignment="CENTER" spacing="30" prefWidth="800" prefHeight="600">
+    <children>
+        <Label fx:id="deckLabel" text="Paquet actuel :"/>
+        <Label fx:id="playerLabel" text="Tour du joueur 1"/>
+        <HBox fx:id="cardsBox" alignment="CENTER" spacing="15"/>
+        <Button fx:id="drawButton" text="Piocher" onAction="#drawCardAction"/>
+    </children>
+</VBox>
