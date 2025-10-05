@@ -1,7 +1,7 @@
 # Projet JavaFX - UNO
 
 ## Description
-Ce projet est une application JavaFX qui implémente un jeu interactif [ou autre type de projet].  
+Ce projet est une application JavaFX qui implémente un jeu interactif UNO.  
 L’objectif est de fournir une interface graphique intuitive tout en respectant les règles du jeu et en permettant une interaction fluide entre l’utilisateur et le programme.
 
 L’application est développée en **Java 21** et utilise **JavaFX 21+** pour l’interface graphique.
